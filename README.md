@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Pal</h1>
+[<h1 align="center">Hi 👋, I'm Ashish Pal</h1>
 <h3 align="center">🚀 AI Engineer | Computer Vision & ML Specialist | Web Developer</h3>
 
 <p align="center">
@@ -63,3 +63,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshishPal2004&color=00F7FF" alt="Profile Views" />
 </p>
+](https://github.com/AshishPal2004)
