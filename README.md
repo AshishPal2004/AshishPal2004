@@ -41,15 +41,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishPal2004&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishPal2004&layout=compact&theme=radical&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AshishPal2004&theme=radical&hide_border=true" />
-</p>
+
+# 📈 Contribution Graph
+
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshishPal2004&theme=react-dark)](https://github.com/AshishPal2004)
+
 
 ---
 
