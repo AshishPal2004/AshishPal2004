@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">🚀 Building cool stuff | ML Enthusiast | Game Developer</h3>
+<h3 align="center">🚀 Building cool stuff | ML Enthusiast | web developer</h3>
 
 ---
 
 ## 🧠 About Me
-- 🔭 Working on ML-based real-world projects (like **ResQAI**)  
-- 🤝 Open to collaborate on **Machine Learning & Game Dev**  
-- 🌱 Currently learning **ML + Game Development (Unity & Blender)**  
-- 💬 Ask me about **Python, Java, Unity, ML basics**  
-- ⚡ Hobbies: Gym + Gaming + Anime 🎮💻  
+- 🔭 Working on ML-based real-world projects (like **cow muzzle identification**)  
+- 🤝 Open to collaborate on **Machine Learning & web designing**  
+- 🌱 Currently learning **ML + pytorch + TensorFlow + openCV**  
+- 💬 Ask me about **Python, Java, ML basics**  
+- ⚡ Hobbies: Gym + Gaming + Anime + watching movies🎮💻  
 
 ---
 
@@ -42,9 +42,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-### 🎮 Game Dev & Design
-![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ### ⚙️ Tools
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
