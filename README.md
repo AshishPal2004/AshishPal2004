@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">🚀 Building cool stuff | ML Enthusiast | web developer</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Game+Developer+in+Progress;Building+AI+Projects;Unity+%7C+Python+%7C+PyTorch" alt="Typing SVG" />
+</p>
 ---
 
 ## 🧠 About Me
