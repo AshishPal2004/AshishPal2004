@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Working on ML-based real-world projects (like **cow muzzle identification**)  
+- 🔭 Working on ML-based real-world projects (like **Muzzle-area-dectection-AI**)  
 - 🤝 Open to collaborate on **Machine Learning & web designing**  
 - 🌱 Currently learning **ML + pytorch + TensorFlow + openCV**  
 - 💬 Ask me about **Python, Java, ML basics**  
