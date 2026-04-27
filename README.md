@@ -60,4 +60,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshishPal2004&color=00F7FF" alt="Profile Views" />
 </p>
-](https://github.com/AshishPal2004)
+]
