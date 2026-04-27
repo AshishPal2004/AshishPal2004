@@ -1,66 +1,65 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">🚀 Building cool stuff | ML Enthusiast | web developer</h3>
+<h1 align="center">Hi 👋, I'm Ashish Pal</h1>
+<h3 align="center">🚀 AI Engineer | Computer Vision & ML Specialist | Web Developer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Game+Developer+in+Progress;Building+AI+Projects;Unity+%7C+Python+%7C+PyTorch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+Deep+Learning;Computer+Vision+Specialist;Building+HERO+Voice+Assistant;PyTorch+%7C+OpenCV+%7C+TensorFlow" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 🧠 About Me
-- 🔭 Working on ML-based real-world projects (like **Muzzle-area-dectection-AI**)  
-- 🤝 Open to collaborate on **Machine Learning & web designing**  
-- 🌱 Currently learning **ML + pytorch + TensorFlow + openCV**  
-- 💬 Ask me about **Python, Java, ML basics**  
-- ⚡ Hobbies: Gym + Gaming + Anime + watching movies🎮💻  
+- 🔭 **Currently Working On:** Specialized AI for Livestock Identification (**Cattle Muzzle Biometrics**).
+- 🎙️ **Recent Achievement:** Developed **HERO**, a voice assistant focused on NLU and task automation.
+- 🤝 **Collaboration:** Interested in **Computer Vision**, **NLP**, and **Deep Learning** research.
+- 🌱 **Learning:** Optimizing model inference and scaling AI-driven web architectures.
+- ⚡ **Hobbies:** Gym 🏋️, Gaming 🎮, Anime ⛩️, and Cinematic Photography.
 
 ---
 
-## 🚀 Projects (Highlight Section)
-- 🔹 **ResQAI** – AI-powered emergency response system  
-- 🔹 More projects on my repositories   
+## 🚀 Featured Projects
+- 🐄 **Muzzle-Area-Detection-AI** – Using deep learning to identify cattle via unique muzzle print patterns.
+- 🎙️ **HERO - Voice Assistant** – An intelligent voice recognition system built for seamless human-computer interaction.
+- 🚑 **ResQAI** – AI-driven emergency response system.
 
 ---
 
-## 🏆 Achievements
-- 🎓 Infosys Springboard Certified (Java Programming Fundamentals)  
-- 🚀 Smart India Hackathon 2024 (SIH) Participant  
-- ⚡ H2S Hackathon Participant  
+## 🛠️ Tech Stack
+
+### 🤖 Machine Learning & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 💻 Development & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishPal2004&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishPal2004&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AshishPal2004&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agarwal-39303728b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agarwal-39303728b) 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/DrUjSzsnF)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishprc6398@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🤖 ML & Data
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-
-### ⚙️ Tools
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ayushagarwal-05&show_icons=true&theme=radical&hide_border=true)
-![](https://streak-stats.demolab.com/?user=Ayushagarwal-05&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushagarwal-05&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayushagarwal-05&theme=radical&no-frame=true&margin-w=5)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ayushagarwal-05&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshishPal2004&color=00F7FF" alt="Profile Views" />
+</p>
